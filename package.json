@@ -1,6 +1,7 @@
 {
   "name": "product-prev-ng",
   "version": "0.0.0",
+  "homepage": "https://ghadaxd.github.io/product-prev-ng",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
